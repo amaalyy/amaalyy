@@ -9,6 +9,9 @@
 - 💬 Ask me about web development
 - 📫 How to reach me **amal.elzowawi@gmail.com**
 
+[![MasterHead](https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif)](https://rishavchanda.io)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/amalyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amalyy" height="30" width="40" /></a>
