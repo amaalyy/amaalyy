@@ -4,7 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amaalyy&label=Profile%20views&color=0e75b6&style=flat" alt="amaalyy" /> </p>
 
-- =>📫 How to reach me **amal.elzowawi@gmail.com**
+- 🔭 I’m currently a student at holberton school
+- 🌱 Currently learning ui/ux design
+- 💬 Ask me about web development
+- 📫 How to reach me **amal.elzowawi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
