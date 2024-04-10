@@ -2,9 +2,10 @@
 <h1 align="center">Hi 👋, I'm Amal Elzowawi✨</h1>
 <h3 align="center">A frontend developer from Libya🇱🇾</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amaalyy&label=Profile%20views&color=0e75b6&style=flat" alt="amaalyy" /> </p>
-
 <img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" style="width: 300px; height: 300px; display: inline-block;" data-target="animated-image.originalImage">
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amaalyy&label=Profile%20views&color=0e75b6&style=flat" alt="amaalyy" /> </p>
 
 - 🔭 I’m currently a student at holberton school
 - 🌱 Currently learning ui/ux design
