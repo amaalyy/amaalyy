@@ -9,7 +9,7 @@
 - 💬 Ask me about web development
 - 📫 How to reach me **amal.elzowawi@gmail.com**
 
-<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" style="width: 300px; height: 300px; display: inline-block;" data-target="animated-image.originalImage">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
