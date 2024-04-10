@@ -22,8 +22,10 @@
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=au,ai,ae,bootstrap,c,css,figma,flask,git,github,html,js,linux,mysql,postgres,pr,ps,py,react,sass,tailwind,vscode,vite,xd" />
+<h3 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h3>
+<img src="https://skillicons.dev/icons?i=au,ai,ae,bootstrap,c,css,figma,flask" />
+<img src="https://skillicons.dev/icons?i=git,github,html,js,linux,mysql,postgres,pr" />
+<img src="https://skillicons.dev/icons?i=ps,py,react,sass,tailwind,vscode,vite,xd" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amaalyy&&theme=tokyonight" alt="amaalyy" /></p>
 
